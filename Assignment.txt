@@ -1,0 +1,13 @@
+1. Ash- Originally known as Almquist Shell, also known by other names such as “a Shell” or “Sh” is a lightweight UNIX Shell, developed by Kenneth Almquist. The launch of the shell was initially a clone of System V.4. This shell is written in C language. It is virtually compatible, small, and very fast UNIX shell.
+ - It is compatible, fast, and small UNIX Shell.
+ -It has standard specifications of the POSIX.
+
+2. Dash- It is the Debian Almquist shell: a small, fast, and POSIX compliant shell. It is well-suited for startup scripts, and is used on Debian (and derivative distributions) as /bin/sh.
+
+3. RC Shell. RC (for "run commands") is the command line interpreter for Version 10 Unix and Plan 9 from Bell Labs operating systems. It resembles the Bourne shell, but its syntax is somewhat simpler.
+
+4. Mksh- Mksh is the MirBSD Korn Shell, an actively developed free implementation of the Korn Shell programming language and a successor to the Public Domain Korn Shell (pdksh). It is developed as part of the MirOS Project as native Bourne/POSIX/Korn shell for MirOS BSD, but also to be readily available under other UNIX-like operating systems. It targets users who desire a compact, fast, reliable, secure shell not cut off modern extensions, with unicode support.
+
+Because of its speed, POSIX compliance, and advanced features, it is ideally suited for scripting. But it can serve very well as a login shell too. It is used as default shell on Android.
+
+5. Tenex C Shell- The Tenex C Shell Tcsh is the Tenex Csh, and offers many improvements to the standard csh, while remaining totally compatible with csh.
